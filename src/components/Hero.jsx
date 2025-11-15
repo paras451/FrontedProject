@@ -25,7 +25,7 @@ function Hero() {
           transition={{ duration: 1, ease: "easeOut" }}
           className="text-4xl md:text-6xl font-extrabold leading-tight mb-6"
         >
-          Build <span className="text-blue-400">Powerful</span> Digital Solutions
+          Build <span className="text-blue-400">Powerful</span> Digital Solution
           <br /> for Web & Mobile
         </h1>
 
