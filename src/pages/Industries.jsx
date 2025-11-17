@@ -23,7 +23,7 @@ const Industries = () => {
       Healthcare
     </h3>
 
-    <p className="text-gray-600 mb-4">
+    <p className="text-gray-600 mb-6">
       Bringing innovation and precision to healthcare technology. Our solutions empower hospitals,
       assisted living facilities, and pharmacies with scalable and compliant digital systems.
     </p>
@@ -40,7 +40,7 @@ const Industries = () => {
 
 
   {/* === E-Commerce === */}
-  <div className=" md:w-120">
+  <div className=" md:w-120 mt-0">
   <div className="bg-white rounded-2xl shadow-md p-10 mb-10 text-left md:h-60 w-full md:w-auto hover:shadow-xl transition-shadow" data-aos="flip-left">
     <h3 className="text-2xl font-semibold text-blue-700 mb-4">
       E-Commerce
