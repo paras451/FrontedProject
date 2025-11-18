@@ -18,7 +18,7 @@ export default function AboutUs() {
       {/* Mission Section */}
       <div className="grid md:grid-cols-2 gap-12 items-center mb-20">
         <div data-aos="zoom-in">
-          <h2 className="text-3xl font-bold mb-4 text-blue-600">Our Mission</h2>
+          <h2 className="text-3xl font-bold mb-4 text-blue-700">Our Mission</h2>
           <p className="text-gray-700 leading-relaxed">
             Our mission is simple — help brands convert ideas into powerful,
             high-performing digital products. We focus on building software that
